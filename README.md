@@ -47,6 +47,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Astenra/Astenra/output/snake.svg" alt="Snake animation" />
-
 ###
